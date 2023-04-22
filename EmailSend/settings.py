@@ -132,7 +132,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 EMAIL_HOST= 'smtp.gmail.com'
 EMAIL_PORT= 587
 EMAIL_HOST_USER=  'komal.gore.demo@gmail.com'     # email
-EMAIL_HOST_PASSWORD= 'bwnhlspmkdjjpird'     # security key   # https://www.youtube.com/watch?v=gOr-RQcfjMQ
+EMAIL_HOST_PASSWORD= '*****'     # security key   # https://www.youtube.com/watch?v=gOr-RQcfjMQ
 EMAIL_USE_TLS= True
 EMAIL_USE_SSL= False
 
